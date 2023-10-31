@@ -52,5 +52,7 @@ const data = [
     </div>    
     `
     ).join("");
+    selectedAnswer()
   };
   showQuestion(qIndex);
+
